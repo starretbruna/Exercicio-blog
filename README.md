@@ -1,5 +1,7 @@
 # Exercicio Blog
 
+##Bruna starret
+
 Este repositório contém um exercício de HTML e CSS para criar um modelo de blog.
 
 ## Repositório Original
